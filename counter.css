@@ -1,0 +1,33 @@
+body{
+    background-color: #363537;
+}
+
+.container{
+    text-align: center;
+    margin-top: 10rem;
+    color: white;
+}
+
+.btn{
+    height: 2rem;
+    width: 7rem;
+    border-radius: 40%;
+}
+
+.btn:hover{
+    background-color: #ED7D3A;
+}
+
+.button-container{
+    margin-top: 3rem;
+}
+
+#value{
+    font-size: 3rem;
+}
+
+h1{
+    font-size: 4rem;
+    border: solid yellow 3px;
+    border-radius: 35%;
+}
